@@ -1,0 +1,1 @@
+Invoke-WebRequest -UseBasicParsing -URI http://127.0.0.1:5000/ -Body @{message = 'A message from CS361'}
